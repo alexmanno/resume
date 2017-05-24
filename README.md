@@ -1,10 +1,6 @@
 # ALESSANDRO MANNO
 
------------------------------
-
 Current location: Milan (MI)
-
------------------------------
 
 ## SKILLS
 
