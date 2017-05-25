@@ -12,7 +12,7 @@ Current location: Milan (MI)
 - PHP 7.1 (or >= 5.6)
 - Laravel 5
 - Zend Framework 2
-- Relational and no-relational DBs such as MySQL / MongoDB / Postgress / Redis
+- Relational and no-relational DBs such as MySQL / MongoDB / PostgreSQL / Redis
 - Templating engines such as Twig / Blade
 - CodeStyle / PHPLinter / PHP-CS-Fixer 
 - Software testing PHPUnit / ParaUnit / PHPSpec
@@ -29,6 +29,7 @@ Current location: Milan (MI)
 - Javascript ES6
 - React/Redux
 - Angular 2
+- EmberJS
 - VueJS
 - Babel
 - Webpack
