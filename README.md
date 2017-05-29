@@ -5,13 +5,14 @@ Current location: Milan (MI)
 ## SKILLS
 
 ### Backend
-- Symfony 2 / 3 / 4
 - OOP and Design Patterns
 - Test Driven Development (TDD)
 - Api development RESTFul / RPC / GraphQL
 - PHP 7.1 (or >= 5.6)
+- Symfony 2 / 3 / 4
 - Laravel 5
 - Zend Framework 2
+- Doctrine
 - Relational and no-relational DBs such as MySQL / MongoDB / PostgreSQL / Redis
 - Templating engines such as Twig / Blade
 - CodeStyle / PHPLinter / PHP-CS-Fixer 
