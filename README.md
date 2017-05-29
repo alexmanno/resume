@@ -1,6 +1,15 @@
 # ALESSANDRO MANNO
 
-Current location: Milan (MI)
+**Name:** Alessandro
+
+**Surname:** Manno
+
+**Age:** 21 
+
+**Current location:** Milan (Italy)
+
+**Current position:** Software Engineer [@Facile.it](https://engineering.facile.it/)
+
 
 ## SKILLS
 
