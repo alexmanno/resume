@@ -4,12 +4,11 @@
 
 **Surname:** Manno
 
-**Age:** 21 
+**Age:** 21
 
 **Current location:** Milan (Italy)
 
 **Current position:** Software Engineer [@Facile.it](https://engineering.facile.it/)
-
 
 ## SKILLS
 
@@ -46,3 +45,10 @@
 - SASS / SCSS / CSS3
 - Templating engines such as Mustache / Handlebars
 - Package management such as NPM
+
+## EXPERIENCES
+
+- **Facile.it** as Software Engineer
+- **Figmenta.com** as Full-Stack Web Developer
+- **Flazio.com** as Full-Stack Web Developer
+- **Netskin.net** as Full-Stack Web Developer
