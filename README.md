@@ -48,7 +48,11 @@
 
 ## EXPERIENCES
 
-- **Facile.it** as Software Engineer
-- **Figmenta.com** as Full-Stack Web Developer
-- **Flazio.com** as Full-Stack Web Developer
-- **Netskin.net** as Full-Stack Web Developer
+- **Facile.it** as *Software Engineer*
+- **Figmenta.com** as *Full-Stack Web Developer*
+- **Flazio.com** as *Full-Stack Web Developer*
+- **Netskin.net** as *Full-Stack Web Developer*
+
+## CERTIFICATIONS
+
+- Cisco IT Essentials
