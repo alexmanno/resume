@@ -16,7 +16,7 @@
 - OOP and Design Patterns
 - Test Driven Development (TDD)
 - Api development RESTFul / RPC / GraphQL
-- PHP 7.1 (or >= 5.6)
+- PHP 7.2 (or >= 5.6)
 - Symfony 2 / 3 / 4
 - Laravel 5
 - Zend Framework 2
