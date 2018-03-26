@@ -30,7 +30,7 @@
 ### DevOps
 - AWS
 - Software versioning such as Git / GitHub / GitLab / Bitbucket
-- Docker / Docker Compose / Swarm
+- Docker / Docker Compose / Swarm / Kubernetes
 - CI/CD such as Travis / Scrutinizer / Jenkins / Gitlab-CI
 - Queue system such as RabbitMQ
 
