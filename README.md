@@ -4,7 +4,7 @@
 
 **Surname:** Manno
 
-**Age:** 22
+**Age:** 23
 
 **Current location:** Milan (Italy)
 
@@ -33,6 +33,9 @@
 - Docker / Docker Compose / Swarm / Kubernetes
 - CI/CD such as Travis / Scrutinizer / Jenkins / Gitlab-CI
 - Queue system such as RabbitMQ
+- Proxies such as HAProxy / Nginx
+- Web server such as Nginx / Apache
+- Monitoring tools such as Grafana
 
 ### Frontend
 - Javascript ES6
