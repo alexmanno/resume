@@ -4,8 +4,6 @@
 
 **Surname:** Manno
 
-**Age:** 23
-
 **Website:** [manno.dev](https://manno.dev/)
 
 **Current location:** Milan (Italy)
