@@ -1,14 +1,13 @@
 # ALESSANDRO MANNO
 
-**Name:** Alessandro
+|           |            |
+|-----------|------------|
+| **First Name** | Alessandro |
+| **Last Name** | Manno |
+| **Website** | [manno.dev](https://manno.dev/) |
+| **Current location** | Milan (Italy) |
+| **Current position** | Software Engineer [@Facile.it](https://engineering.facile.it/) |
 
-**Surname:** Manno
-
-**Website:** [manno.dev](https://manno.dev/)
-
-**Current location:** Milan (Italy)
-
-**Current position:** Software Engineer [@Facile.it](https://engineering.facile.it/)
 
 ## SKILLS
 
