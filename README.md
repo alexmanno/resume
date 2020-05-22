@@ -6,7 +6,7 @@
 | **Last Name** | Manno |
 | **Website** | [manno.dev](https://manno.dev/) |
 | **Current location** | Milan (Italy) |
-| **Current position** | Software Engineer [@Facile.it](https://engineering.facile.it/) |
+| **Current position** | DevOps Engineer [@Facile.it](https://engineering.facile.it/) |
 
 
 ## SKILLS
@@ -27,14 +27,16 @@
 - Package management such as Composer / Packagist
 
 ### DevOps
-- AWS
+- Cloud provider such as AWS / GCS
 - Software versioning such as Git / GitHub / GitLab / Bitbucket
+- IaC such as Terraform / Ansible / Kustomize / Helm (+ Tiller)
 - Docker / Docker Compose / Swarm / Kubernetes
 - CI/CD such as Travis / Scrutinizer / Jenkins / Gitlab-CI
 - Queue system such as RabbitMQ
 - Proxies such as HAProxy / Nginx
 - Web server such as Nginx / Apache
 - Monitoring tools such as Grafana
+- Metrics tools such as Prometheus
 
 ### Frontend
 - Javascript ES6
@@ -50,6 +52,7 @@
 
 ## EXPERIENCES
 
+- **Facile.it** as *DevOps Engineer*
 - **Facile.it** as *Software Engineer*
 - **Figmenta.com** as *Full-Stack Web Developer*
 - **Flazio.com** as *Full-Stack Web Developer*
