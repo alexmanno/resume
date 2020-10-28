@@ -61,3 +61,4 @@
 ## CERTIFICATIONS
 
 - Cisco IT Essentials
+- Google Crash Course on Python (offered through Coursera)
