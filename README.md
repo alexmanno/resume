@@ -11,6 +11,19 @@
 
 ## SKILLS
 
+### DevOps
+- Cloud provider such as AWS / GCS
+- Software versioning such as Git / GitHub / GitLab / Bitbucket
+- IaC such as Terraform / Ansible / Kustomize / Helm (+ Tiller)
+- Kubernetes
+- Docker / Docker Compose / Swarm
+- CI/CD such as Travis / Scrutinizer / Jenkins / Gitlab-CI
+- Queue system such as RabbitMQ
+- Proxies such as HAProxy / Nginx
+- Web server such as Nginx / Apache
+- Monitoring tools such as Grafana
+- Metrics tools such as Prometheus
+
 ### Backend
 - OOP and Design Patterns
 - Test Driven Development (TDD)
@@ -26,19 +39,8 @@
 - Software testing PHPUnit / ParaUnit / PHPSpec
 - Package management such as Composer / Packagist
 
-### DevOps
-- Cloud provider such as AWS / GCS
-- Software versioning such as Git / GitHub / GitLab / Bitbucket
-- IaC such as Terraform / Ansible / Kustomize / Helm (+ Tiller)
-- Docker / Docker Compose / Swarm / Kubernetes
-- CI/CD such as Travis / Scrutinizer / Jenkins / Gitlab-CI
-- Queue system such as RabbitMQ
-- Proxies such as HAProxy / Nginx
-- Web server such as Nginx / Apache
-- Monitoring tools such as Grafana
-- Metrics tools such as Prometheus
-
 ### Frontend
+- Typescript
 - Javascript ES6
 - React/Redux
 - Angular 2
@@ -48,7 +50,7 @@
 - Webpack
 - SASS / SCSS / CSS3
 - Templating engines such as Mustache / Handlebars
-- Package management such as NPM
+- Package management NPM/Yarn
 
 ## EXPERIENCES
 
@@ -61,4 +63,5 @@
 ## CERTIFICATIONS
 
 - Cisco IT Essentials
+- Writing strongly typed code in Typescript
 - Google Crash Course on Python (offered through Coursera)
