@@ -6,7 +6,7 @@
 | **Last Name** | Manno |
 | **Website** | [manno.dev](https://manno.dev/) |
 | **Current location** | Milan (Italy) |
-| **Current position** | DevOps Engineer [@Facile.it](https://engineering.facile.it/) |
+| **Current position** | Tech Lead Cloud Engineer [@Facile.it](https://engineering.facile.it/) |
 
 
 ## SKILLS
@@ -53,7 +53,7 @@
 - Package management NPM/Yarn
 
 ## EXPERIENCES
-
+- **Facile.it** as *Tech Lead Cloud Engineer*
 - **Facile.it** as *DevOps Engineer*
 - **Facile.it** as *Software Engineer*
 - **Figmenta.com** as *Full-Stack Web Developer*
